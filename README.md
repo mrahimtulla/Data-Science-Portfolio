@@ -17,6 +17,24 @@ Welcome to my data science portfolio! This repository contains a collection of d
 
 Each project directory contains a detailed README, code, and necessary resources.
 
+## 🛠️ Technical Skills
+
+- **Programming**: Python, SQL, PySpark
+- **Machine Learning**: Scikit-learn, XGBoost, LightGBM
+- **Deep Learning**: TensorFlow, Keras, PyTorch
+- **Data Processing**: Pandas, NumPy, Dask
+- **Visualization**: Matplotlib, Seaborn, Plotly, Tableau
+- **Big Data**: Apache Spark, Hadoop
+- **Data Engineering**: Apache Airflow, Docker, AWS
+- **Deployment**: Streamlit, Flask, FastAPI
+
+## 📈 Results Summary
+
+- **97% accuracy** on image classification task
+- **0.89 R² score** on house price prediction
+- **94% accuracy** on sentiment analysis
+- **Real-time ETL pipeline** processing 1M+ records daily
+
 ## How to Use
 
 Navigate to the project of interest and follow the instructions in the project's README to run the code.
